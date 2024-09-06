@@ -17,7 +17,7 @@ To begin, clone the repository to your local machine using git.
 Open a terminal or command prompt.
 Navigate to the directory where you want to clone the repository.
 Use the git clone command followed by the repository URL. Replace <repository-url> with the actual GitHub URL.
-git clone https://github.com/bhavin0077/stress-away-meet-task.git
+           git clone https://github.com/bhavin0077/stress-away-meet-task.git
 
 2. Navigate to the Project Directory
 Once the repository is cloned, navigate to the project directory:
