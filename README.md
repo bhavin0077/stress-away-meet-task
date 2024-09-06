@@ -22,6 +22,7 @@ git clone https://github.com/bhavin0077/stress-away-meet-task.git
 
 2. Navigate to the Project Directory
 Once the repository is cloned, navigate to the project directory:
+
 cd stress-away-meet-task
 
 3. Install Project Dependencies
@@ -29,9 +30,11 @@ Most applications have dependencies that need to be installed before they can be
 
 Install Dependencies:
 For npm:
+
 npm install -f
 
 For yarn:
+
 yarn install -f
 
 This command reads the package.json file and installs all the required dependencies listed in it.
@@ -40,8 +43,10 @@ This command reads the package.json file and installs all the required dependenc
 Now, you're ready to run the application.
 
 For npm:
+
 npm start
 
 For yarn:
+
 yarn start
 
